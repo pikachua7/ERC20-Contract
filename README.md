@@ -2,12 +2,12 @@
 #### ERC 20 Contract for zkThon
 
 
-# Pre-requisites : 
+## Pre-requisites : 
 
 1. Have NodeJS >=16
 2. Have metamask extension installed (https://www.geeksforgeeks.org/how-to-install-and-use-metamask-on-google-chrome/)
 
-Steps to follow : 
+### Steps to follow : 
 
 1. Clone this repository into your local using the command - 
 

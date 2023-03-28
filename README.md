@@ -34,4 +34,4 @@ PRIVATE_KEY = "0x<INSERT-YOUR-PRIVATE-KEY> "
 
 ```
 node Token.js
-``
+```

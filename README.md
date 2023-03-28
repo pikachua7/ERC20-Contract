@@ -1,6 +1,4 @@
-# ERC20-Contract
-#### ERC 20 Contract for zkThon
-
+# ERC20-Contract for zkThon
 
 ## Pre-requisites : 
 

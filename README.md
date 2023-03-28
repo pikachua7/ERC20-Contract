@@ -24,7 +24,7 @@ cd ERC20-Contract
 ```
 npm install
 ```
-4. make a .env file in your root folder and add this line - 
+4. make a .env file in your src folder and add this line - 
 
 ```
 PRIVATE_KEY = "0x<INSERT-YOUR-PRIVATE-KEY> "
@@ -34,7 +34,7 @@ PRIVATE_KEY = "0x<INSERT-YOUR-PRIVATE-KEY> "
 
 6. Update your abi in abi.json
 
-7. Run Token.js file
+7. Ensure that you are in src folder and then run Token.js file
 
 ```
 node Token.js
